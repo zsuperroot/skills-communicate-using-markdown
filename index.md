@@ -4,3 +4,6 @@ a short, meaningful commit message that describes the change you made to the fil
 ``` C
 int a = 0;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
